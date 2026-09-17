@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    max-width: 70ch;
+    margin-right: auto;
+    margin-left: auto;
+    width: 1000px;
+}
+p {
+    color: rgb(103, 61, 15);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+ul {
+    color: rgb(88, 52, 18);
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+li {
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a {
+    color: rgb(156, 99, 29);
+}
+h1 {
+    font-size: 70 point;
+    padding: 15px;
+    background-color: rgb(218, 218, 238);
+}
